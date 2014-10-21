@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KiteBuddyModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="IndexedSpots">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Link" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Category" Type="nvarchar" MaxLength="50" />
+    <Property Name="SpotType" Type="nvarchar" MaxLength="50" />
+    <Property Name="SpotLevel" Type="nvarchar" MaxLength="50" />
+    <Property Name="ToiletAvailable" Type="nvarchar" MaxLength="50" />
+    <Property Name="Directions" Type="nvarchar(max)" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="WindN" Type="bit" />
+    <Property Name="WindNE" Type="bit" />
+    <Property Name="WindE" Type="bit" />
+    <Property Name="WindSE" Type="bit" />
+    <Property Name="WindS" Type="bit" />
+    <Property Name="WindSW" Type="bit" />
+    <Property Name="WindW" Type="bit" />
+    <Property Name="WindNW" Type="bit" />
+    <Property Name="Location" Type="geography" />
+  </EntityType>
+  <EntityContainer Name="KiteBuddyModelStoreContainer">
+    <EntitySet Name="IndexedSpots" EntityType="Self.IndexedSpots" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

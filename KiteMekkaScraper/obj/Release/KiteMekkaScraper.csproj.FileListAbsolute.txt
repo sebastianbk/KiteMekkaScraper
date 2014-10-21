@@ -1,0 +1,13 @@
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Release\KiteMekkaScraper.exe.config
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Release\KiteMekkaScraper.exe
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Release\KiteMekkaScraper.pdb
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Release\EntityFramework.dll
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Release\HtmlAgilityPack.dll
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Release\EntityFramework.xml
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Release\HtmlAgilityPack.pdb
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Release\HtmlAgilityPack.xml
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\obj\Release\KiteMekkaScraper.csprojResolveAssemblyReference.cache
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\obj\Release\KiteMekkaScraper.exe
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\obj\Release\KiteMekkaScraper.pdb

@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KiteMekkaScraper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="KiteMekkaConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=y66w2v91ae.database.windows.net;Initial Catalog=KiteMekka;Persist Security Info=True;User ID=sbrand;Password=1Starlight&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=y66w2v91ae.database.windows.net;Initial Catalog=KiteMekka;Persist Security Info=True;User ID=sbrand;Password=1Starlight</Value>
+    </Setting>
+    <Setting Name="KiteBuddyConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=xlcetfibi1.database.windows.net,1433;Initial Catalog=KiteBuddy;Persist Security Info=True;User ID=sbrand;Password=1Starlight&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=xlcetfibi1.database.windows.net,1433;Initial Catalog=KiteBuddy;Persist Security Info=True;User ID=sbrand;Password=1Starlight</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

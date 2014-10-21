@@ -1,0 +1,13 @@
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Debug\KiteMekkaScraper.exe.config
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Debug\KiteMekkaScraper.exe
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Debug\KiteMekkaScraper.pdb
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Debug\EntityFramework.dll
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Debug\EntityFramework.xml
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\obj\Debug\KiteMekkaScraper.exe
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\obj\Debug\KiteMekkaScraper.pdb
+C:\Projects\KiteMekkaScraper\KiteMekkaScraper\obj\Debug\KiteMekkaScraper.csprojResolveAssemblyReference.cache

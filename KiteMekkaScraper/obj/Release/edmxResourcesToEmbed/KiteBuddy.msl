@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KiteBuddyModelStoreContainer" CdmEntityContainer="KiteBuddyEntities">
+    <EntitySetMapping Name="IndexedSpots">
+      <EntityTypeMapping TypeName="KiteBuddyModel.IndexedSpot">
+        <MappingFragment StoreEntitySet="IndexedSpots">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Link" ColumnName="Link" />
+          <ScalarProperty Name="Category" ColumnName="Category" />
+          <ScalarProperty Name="SpotType" ColumnName="SpotType" />
+          <ScalarProperty Name="SpotLevel" ColumnName="SpotLevel" />
+          <ScalarProperty Name="ToiletAvailable" ColumnName="ToiletAvailable" />
+          <ScalarProperty Name="Directions" ColumnName="Directions" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="WindN" ColumnName="WindN" />
+          <ScalarProperty Name="WindNE" ColumnName="WindNE" />
+          <ScalarProperty Name="WindE" ColumnName="WindE" />
+          <ScalarProperty Name="WindSE" ColumnName="WindSE" />
+          <ScalarProperty Name="WindS" ColumnName="WindS" />
+          <ScalarProperty Name="WindSW" ColumnName="WindSW" />
+          <ScalarProperty Name="WindW" ColumnName="WindW" />
+          <ScalarProperty Name="WindNW" ColumnName="WindNW" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
